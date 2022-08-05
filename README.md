@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <br/>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
