@@ -16,7 +16,7 @@
 -:dart: hustling to be accurate ...
 <br/>
 <div id="badges">
- <a href="https://www.linkedin.com/in/selancrism/">
+ <a href="https://www.linkedin.com/in/selancrism-s-b150aa201/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
  </a>
   <a href="https://www.youtube.com/channel/UCA1ym2MsqfjHUMPunDbR80w">
