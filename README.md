@@ -1,9 +1,9 @@
 ### Hi There :wave:
 <br/>
 
-**kcsaiganesh/iknsg**
+
 <br/>
--Iam Kc Sai Ganesh :dash:
+-Iam **Kc Sai Ganesh** :dash:
 <br/>
 <br/>
 -:feet: Iam very new for github(newbie) :laughing:...
