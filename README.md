@@ -36,8 +36,8 @@ height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ### :fire: My Stats :
-[![kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh)](https://github.com/kcsaiganesh/github-readme-stats)
-![kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&hide=contribs,prs)
-![kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&count_private=true)
-![kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&show_icons=true&theme=radical)
-![kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&show_icons=true&theme=radical)
+[kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh)](https://github.com/kcsaiganesh/github-readme-stats)
+[kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&hide=contribs,prs)
+[kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&count_private=true)
+[kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&show_icons=true&theme=radical)
+[kcsaiganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsaiganesh&show_icons=true&theme=radical)
