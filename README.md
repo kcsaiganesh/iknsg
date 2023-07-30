@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-image-url-here](https://th.bing.com/th/id/R.094adacfd63ffdda424cf190d7eed3f7?rik=MIgWVFElVqeY%2bA&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0822%2f1983%2farticles%2favatar-the-last-airbender-aang-pixel-art-pixel-art-avatar-the-last-airbender-aang-fictional-character-airbender-avatar-pixel-8bit.png%3fv%3d1501129485&ehk=TRPOFMvD13STC0FKgmOi779iGulVXC5%2fhtaKnvri%2fqQ%3d&risl=&pid=ImgRaw&r=0)" alt="Profile Image" width="200"/>
+  <img src="https://wallpaperaccess.com/full/957248.jpg" alt="Profile Image" width="200"/>
 </div>
 
 ## 👋 Hello, World! I'm Sai Ganesh 👨‍💻
