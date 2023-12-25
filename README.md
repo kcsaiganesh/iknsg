@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ### 💬 Let's Connect:
 
 - 📧 Feel free to reach out via email at [kcsaiganesh@gmail.com](mailto:kcsaiganesh@gmail.com).
-- 🌐 Explore my portfolio: [Your Portfolio Website](https://dev-port-phi.vercel.app/).
-- 📝 Check out my blog: [Dev Blog](https://devblog.example.com).
+- 🌐 Explore my portfolio: [🔗https://saiganesh.com](https://dev-port-phi.vercel.app/).
+- 📝 Check out my blog: [saiganesh-dev-blog]([https://devblog.example.com](https://dev.to/kcsg)).
 
 ### :hammer_and_wrench: Skills:
 
