@@ -1,6 +1,3 @@
-<div align="center">
-  <img  src="https://cdn4.iconfinder.com/data/icons/people-avatar-1-1/128/1-512.png" alt="Profile Image" width="200" style="border-radius: 50%; border: 2px solid #ccc"/>
-</div>
 
 ## 👋 Hello, World! I'm Sai Ganesh 👨‍💻
 
@@ -38,8 +35,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 - **Databases:** MongoDB, PostgreSQL, MySQL.
 - **Tools:** Git, VS Code, Jupyter, Postman.
 
-### 🌟 GitHub Stats:
+### 🌟 Open Source badges:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=issues)
+[![An image of @kcsaiganesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kcsaiganesh)](https://holopin.io/@kcsaiganesh)
 
 Let's build something awesome together! Happy coding! 🚀
