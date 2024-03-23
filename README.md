@@ -6,14 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ### 🔭 Currently Working On:
 
 - Building interactive and responsive web applications using the MERN Stack.
-- Exploring the depths of artificial intelligence and machine learning.
 - Enhancing my problem-solving skills through coding challenges and competitive programming.
-
-### 🌱 Learning:
-
-- Deepening my knowledge of cloud technologies (AWS, GCP, Azure).
-- Exploring containerization and orchestration with Docker and Kubernetes.
-- Diving into data science and analytics with Python and R.
 
 ### 🚀 Goals for the Future:
 
@@ -31,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 - **Languages:** JavaScript, Python, Java.
 - **Front-end:** React, HTML, CSS, SASS.
-- **Back-end:** Node.js, Express, Django.
-- **Databases:** MongoDB, PostgreSQL, MySQL.
-- **Tools:** Git, VS Code, Jupyter, Postman.
+- **Back-end:** Node.js, Express.
+- **Databases:** MongoDB.
+- **Tools:** Git, VS Code, Postman.
 
 ### 🌟 Open Source badges:
 
